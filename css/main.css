@@ -45,3 +45,25 @@ figcaption {
 a {
   color: #000;
 }
+
+figure {
+  margin: 0;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .banner {
+    background-image: linear-gradient(to bottom, rgba(28, 14, 0, .7), rgba(28, 14, 0, .01), rgba(28, 14, 0, 0), rgba(28, 14, 0, 0), rgba(28, 14, 0, 0)), url("../images/banner.jpg");
+    padding-top: 66.8%;
+  }
+
+  .banner-content {
+    left: 0;
+    top: .08em;
+  }
+
+  .banner-content-shadow {
+    left: .07em;
+    top: .15em;
+  }
+}
