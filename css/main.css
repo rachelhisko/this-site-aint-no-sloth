@@ -79,9 +79,9 @@ figure {
 
 @media only screen and (min-width: 90em) {
 
-   .banner {
-     padding-top: 66.3%;
-   }
+  .banner {
+    padding-top: 66.3%;
+  }
 
   main {
     max-width: 750px;
