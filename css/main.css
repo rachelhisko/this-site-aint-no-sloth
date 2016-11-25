@@ -1,0 +1,13 @@
+html {
+  font-family: Verdana, Georgia;
+  background-image: url("../images/sloth-bg.svg");
+  background-color: #bea586;
+  background-repeat: repeat;
+  background-size: 48px auto;
+}
+
+main {
+  background-color: #fff;
+  background-repeat: no-repeat;
+  
+}
