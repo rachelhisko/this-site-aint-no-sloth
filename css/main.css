@@ -9,7 +9,6 @@ html {
 main {
   background-color: #fff;
   max-width: 696px;
-  margin: auto;
 }
 
 .banner {
@@ -18,4 +17,31 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 66.8%;
+}
+
+.banner-content {
+  color: #fff;
+  font-family: Georgia, serif;
+  left: 0;
+  top: .16em;
+}
+
+.banner-content-shadow {
+  color: rgba(28, 14, 0, .8);
+  font-family: Georgia, serif;
+  left: .1em;
+  top: .26em;
+}
+
+figcaption {
+  font-family: Georgia, serif;
+}
+
+.border {
+  border-top: 2px solid #837c75;
+  border-bottom: 2px solid #837c75;
+}
+
+a {
+  color: #000;
 }
